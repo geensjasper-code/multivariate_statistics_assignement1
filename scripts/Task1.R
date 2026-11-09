@@ -67,7 +67,7 @@ round(zstandard[,1:2],2) #only look at scores for PC1 and PC2
 
 
 #--------------------------------------------
-#9. biplot
+#9. biplot (section of code written by AI to create a clearer plot)
 #--------------------------------------------
 
 
