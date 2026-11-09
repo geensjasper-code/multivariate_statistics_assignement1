@@ -1,10 +1,9 @@
 #task2 multivariate statistics assignement 1
 
-load("data/ndata.Rdata")
-
 #Data Exploration 
 View(ndata)
 anyNA(ndata)
+dim(ndata)
 str(ndata)
 
 #Question 1: Explanatory Factor Analysis 

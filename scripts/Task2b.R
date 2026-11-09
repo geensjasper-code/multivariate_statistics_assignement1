@@ -1,8 +1,7 @@
 library(lavaan)
 
 ndata_cfa <- ndata
-## Careful, if we run task 2, then task 2b this will procude wrong output, 
-#But we'll merge code so no worries prob
+
 ndata_cfa$hmsfmlsh <- 6 - ndata_cfa$hmsfmlsh
 ndata_cfa$rlgatnd <- 8 - ndata_cfa$rlgatnd
 ndata_cfa$pray <- 8 - ndata_cfa$pray
